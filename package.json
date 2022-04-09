@@ -10,7 +10,7 @@
     "@zeit/next-css": "^1.0.1",
     "antd": "^3.9.2",
     "babel-plugin-import": "^1.9.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "next": "latest",
     "null-loader": "2.0.0",
     "react": "^16.7.0",
